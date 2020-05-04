@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VeenendaalRP",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3445,11 +3445,12 @@
         }
       ]
     },
-    "page5.html": {
+    "Partners.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "Partners",
         "title": "partners",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/veenendaal-475x475.png"
       },
       "components": [
         {
