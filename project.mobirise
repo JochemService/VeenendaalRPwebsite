@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VeenendaalRP",
-    "currentPage": "index.html",
+    "currentPage": "lekkere cookies.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
       "underlineLink": true,
       "opacity": "1",
       "opacityOverlay": "80",
-      "text": "Wij gebruike cookies. voor betere werking lees meer: <a href='privacy.html'>cookie policy</a>.",
+      "text": "Wij gebruike cookies. voor betere werking lees meer: <a href='lekkere cookies.html'>cookie policy</a>.",
       "textButton": "Keur goed"
     },
     "favicon": false,
